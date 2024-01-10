@@ -71,5 +71,6 @@
     <Build Include="dbo\Stored Procedures\sp3.sql" />
     <Build Include="dbo\Stored Procedures\sp4.sql" />
     <Build Include="dbo\Stored Procedures\sp5.sql" />
+    <Build Include="Procedure1.sql" />
   </ItemGroup>
 </Project>
