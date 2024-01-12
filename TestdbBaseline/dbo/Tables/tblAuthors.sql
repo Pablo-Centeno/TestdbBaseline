@@ -2,6 +2,7 @@
     [Id]          INT           IDENTITY (1, 1) NOT NULL,
     [Author_name] NVARCHAR (50) NULL,
     [country]     NVARCHAR (50) NULL,
+    [julio] VARCHAR(50) NULL, 
     PRIMARY KEY CLUSTERED ([Id] ASC)
 );
 
